@@ -1,0 +1,15 @@
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\bin\Debug\net6.0\Example_1.exe
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\bin\Debug\net6.0\Example_1.deps.json
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\bin\Debug\net6.0\Example_1.runtimeconfig.json
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\bin\Debug\net6.0\Example_1.dll
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\bin\Debug\net6.0\Example_1.pdb
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.csproj.AssemblyReference.cache
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfoInputs.cache
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.AssemblyInfo.cs
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.dll
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\refint\Example_1.dll
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.pdb
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\Example_1.genruntimeconfig.cache
+C:\Users\Lenova7\Desktop\Pavtor_homeWorks\Exampls\Example_1\obj\Debug\net6.0\ref\Example_1.dll
